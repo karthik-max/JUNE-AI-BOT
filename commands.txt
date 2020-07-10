@@ -1,0 +1,33 @@
+
+VoiCE COMMAND     -----------TASK
+
+Introduce Yourself ----------introduction
+Introduce Your Dad-----------Creator Introduction
+who is your dad--------------ask woh is your creator
+say hello to(person)---------wishes the person
+video search (video Name)----to search video in youtube
+open youtube-----------------open youtube
+open google------------------open google
+open department--------------open computer science depart in AJIET site
+open github------------------open github
+search(item to search)-------opens google and searches that query
+make me laugh----------------opens a meme site
+play music-------------------plays music
+time-------------------------says you the time
+thank you--------------------wishes you back
+resume-----------------------opens my resume
+open android studio----------opens android studio
+open code--------------------opens visual code
+open facebook----------------opens facebook.com
+open stackoverflow-----------opens stackoverflow.com
+open whatsapp----------------opens web.whatsapp.com
+weather in (city)------------gives you the weather details which are 90% accurate
+get (news name)--------------gets the news and reads the headline for you
+covid in(country)------------gives you the current covid updates in that country
+analyse my mood--------------takes few sentences and analyses the mood based on (SENTIMENTS......)(YET TO DO......)
+
+
+
+
+
+say aything else -----replies with could you repeat boss
